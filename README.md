@@ -7,7 +7,7 @@ Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para 
 ---
 # ▶ Youtube
 
-🔗 **Confira no vídeo:** [Youtube](https://youtu.be/KzmQgnjzO40)
+🔗 **Confira no vídeo:** [Youtube](https://youtu.be/f9ijQHBkcSk)
 
 ---
 
