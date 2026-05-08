@@ -5,6 +5,11 @@ Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para 
 🔗 **Confira o site online:** [Github.io](https://gustavo-zago.github.io/Portfolio/)
 🔗 **Confira o site online:** [vercel.app](https://portfoliozago-gamma-snowy.vercel.app/)
 ---
+# ▶ Youtube
+
+🔗 **Confira no vídeo:** [Youtube](https://youtu.be/KzmQgnjzO40)
+
+---
 
 ## 👨‍💻 Sobre Mim
 
