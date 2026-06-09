@@ -3,10 +3,9 @@
 Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para centralizar meus principais projetos, habilidades e experiências na jornada como desenvolvedor.
 
 🔗 **Confira o site online:** [Github.io](https://gustavo-zago.github.io/Portfolio/)
-🔗 **Confira o site online:** [vercel.app](https://portfoliozago-gamma-snowy.vercel.app/)
+
 ---
 # ▶ Youtube
-
 🔗 **Confira no vídeo:** [Youtube](https://youtu.be/f9ijQHBkcSk)
 
 ---
@@ -49,9 +48,7 @@ Aqui estão alguns dos projetos que você encontrará no meu portfólio:
 Se você gostou do meu trabalho ou quer trocar uma ideia sobre tecnologia, sinta-se à vontade para entrar em contato:
 
 * **LinkedIn:** [Gustavo Zago](https://www.linkedin.com/in/gustavo-zago-23459526b/)
-* **Instagram:** [@zago_gusta](https://www.instagram.com/zago_gusta/)
 * **GitHub:** [Gustavo-Zago](https://github.com/Gustavo-Zago/)
-* **Email:** rrgusta@gmail.com
 
 ---
 
